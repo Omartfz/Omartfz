@@ -32,13 +32,13 @@ Interested in **Quant Research / Quant Dev / ML Engineering** and building **rob
 | Category | Description |
 |-----------|-------------|
 | **Programming** | **Python**, **C++**, **SQL** |
-| **ML / DL** | Model training & evaluation, feature engineering, pipelines, experimentation in **Python** |
-| **Quant / Markets** | Time series, volatility, risk metrics, market microstructure intuition (project-based) |
+| **ML / DL** | Coursework in **Machine Learning**, **Deep Learning**, and **Statistics**. Comfortable building end-to-end experiments in Python using **pandas**, **PyTorch**, and **scikit-learn**. |
+| **Quant / Markets** | **Statistics & Probability**, **Stochastic Calculus & Financial Mathematics**, **Econometrics**. |
 | **Software Engineering** | OOP, design patterns, API design, testing, architecture, clean code |
-| **Tools** | Git, Linux, LaTeX, Docker (basics), Excel |
+| **Tools** | Git, LaTeX, Docker (basics), Excel |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,git,linux,docker&perline=8" height="48" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex,git,docker&perline=8" height="48" alt="skills"/>
   <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="44" style="margin:0 8px; vertical-align:middle;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" height="44" style="margin:0 8px; vertical-align:middle;">
 </p>
@@ -69,7 +69,7 @@ Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vi
 ## Let’s Connect
 
 📩 Email: **omar.toufelaz@enpc.fr**  
-💼 LinkedIn: **linkedin.com/in/omar-toufelaz-b32095357**  
+💼 LinkedIn: **[linkedin.com/in/omar-toufelaz](https://www.linkedin.com/in/omar-toufelaz/)**  
 
 ---
 
