@@ -39,10 +39,9 @@ Interested in **Quant Research / Quant Dev / ML Engineering** and building **rob
 | **Tools** | Git, LaTeX, Docker (basics), Excel |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,git,docker&perline=8" height="48" alt="skills"/>
-  <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="44" style="margin:0 8px; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" height="44" style="margin:0 8px; vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex&perline=5" height="48" alt="skills"/>
 </p>
+
 
 ---
 
