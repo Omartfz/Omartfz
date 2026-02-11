@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg?v=10" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&lines=ENPC+IMI+%7C+Applied+Math+%26+CS;Quant+%2F+ML+%2F+SWE+Internship+Seeker;Python+%7C+C%2B%2B+%7C+PyTorch+%7C+scikit-learn" alt="typing animation"/>
+
 </p>
 
 <!-- ================= CONTACT ================= -->
