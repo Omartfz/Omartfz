@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&lines=ENPC+IMI+%7C+Applied+Math+%26+CS;Quant+%2F+ML+%2F+SWE+Internship+Seeker;Python+%7C+C%2B%2B+%7C+PyTorch+%7C+scikit-learn" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&lines=ENPC+IMI+%7C+Applied+Math+%26+CS;Quant+%2F+ML+%2F+Internship+Seeker;Python+%7C+C%2B%2B+%7C+PyTorch+%7C+scikit-learn" alt="typing animation"/>
 
 </p>
 
@@ -65,6 +65,39 @@ Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vi
 *École des Ponts Artificial Intelligence Club* · Paris, France  
 - Active member of the École des Ponts Artificial Intelligence club, participating in technical workshops, coding challenges, and discussions on the latest advances in AI and machine learning.
 
+---
+
+## Featured Project
+
+<table>
+<tr>
+<td>
+
+### 📈 Path-Dependent Volatility Forecasting · [GitHub →](https://github.com/Omartfz/volatility-path-dependence)
+
+**Modular Python toolkit implementing the path-dependent volatility model from _Guyon & Lekeufack (2023)_ for VIX forecasting.**
+
+Captures the persistent memory structure of implied volatility using **Time-Shifted Power-Law (TSPL) kernels**, reproducing and extending paper results across multiple indices (S&P 500, NDX, DJI).
+
+**Core idea:** VIX is modeled as a function of two long-memory features built from past returns:
+
+> `VIX_t ≈ a · R₁_t + b · √(R̃₂_t)`
+
+where **R₁** encodes trend (short-term) and **R₂** encodes volatility (long-term path dependence).
+
+| Model | RMSE | R² |
+|---|---|---|
+| **TSPL (optimized)** | **2.82** | **0.87** |
+| HAR | 4.34 | 0.70 |
+| Realized Vol (30d) | 5.30 | 0.56 |
+
+> Train: 2000–2018 · Test: 2019–2025 · Benchmark: S&P 500 / VIX
+
+**Stack:** `Python` · `scipy.optimize` · `pandas` · `yfinance` · `matplotlib`
+
+</td>
+</tr>
+</table>
 
 ## Let’s Connect
 
