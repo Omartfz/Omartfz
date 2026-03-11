@@ -35,8 +35,7 @@ Interested in **Quant Research / Quant Dev / ML Engineering** and building **rob
 | **Programming** | **Python**, **C++**, **SQL** |
 | **ML / DL** | Coursework in **Machine Learning**, **Deep Learning**, and **Statistics**. Comfortable building end-to-end experiments in Python using **pandas**, **PyTorch**, and **scikit-learn**. |
 | **Quant / Markets** | **Statistics & Probability**, **Stochastic Calculus & Financial Mathematics**, **Econometrics**. |
-| **Software Engineering** | OOP, design patterns, API design, testing, architecture, clean code |
-| **Tools** | Git, LaTeX, Docker (basics), Excel |
+| **Tools** | Git, LaTeX, |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,latex&perline=5" height="48" alt="skills"/>
