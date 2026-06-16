@@ -19,7 +19,7 @@
 ## About Me
 
 2nd-year **engineering student in Applied Mathematics & Computer Science** at **École Nationale des Ponts et Chaussées (ENPC)**  
-Interested in **Quant Research** and **AI / Machine Learning Research**, building **robust, production-grade systems** powered by strong math foundations.
+Interested in **Quant Research** and **AI / Machine Learning Research** .
 
 - 📍 Paris, France  
 - 🧠 Focus: **Machine Learning**, **Statistics & Probability**, **Optimization**, **Software Engineering**, **Quant Finance**
@@ -31,7 +31,7 @@ Interested in **Quant Research** and **AI / Machine Learning Research**, buildin
 | Category | Description |
 |-----------|-------------|
 | **Programming** | **Python**, **C++**, **SQL** |
-| **ML / DL** | Coursework in **Machine Learning**, **Deep Learning**, and **Statistics**. Comfortable building end-to-end experiments in Python using **pandas**, **PyTorch**, and **scikit-learn**. |
+| **ML / DL** | Coursework in **Machine Learning**, **Deep Learning**, **Computer Vision** and **Statistics**. Comfortable building end-to-end experiments in Python using **pandas**, **PyTorch**, and **scikit-learn**. |
 | **Quant / Markets** | **Statistics & Probability**, **Stochastic Calculus & Financial Mathematics**. |
 | **Tools** | Git, LaTeX |
 
@@ -47,19 +47,7 @@ Interested in **Quant Research** and **AI / Machine Learning Research**, buildin
 Major: *Applied Mathematics & Computer Science*
 
 **Main coursework:**  
-Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vision, Statistics & Probability, Convex Optimization
-
----
-
-## Activities
-
-**Vice President, TEDx Team** — *May 2025 – Present*  
-*La Tribune des Ponts et Chaussées* · Paris, France  
-- Leading the organization of the 2025 TEDx conference at École des Ponts, coordinating logistics, speaker selection, and communication strategy to bring thought-provoking talks to the engineering student community.
-
-**Vice President, Ponts AI** — *Jun. 2025 – Present*  
-*École des Ponts Artificial Intelligence Club* · Paris, France  
-- Active member of the École des Ponts Artificial Intelligence club, participating in technical workshops, coding challenges, and discussions on the latest advances in AI and machine learning.
+Machine Learning, Deep Learning, Advanced Programming (Python, C++), Stochastic calculus & Financial Mathematics, Statistics & Probability, Convex Optimization, Computer Vision
 
 ---
 
@@ -79,33 +67,85 @@ Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vi
 
 ---
 
-## Featured Project
+## Activities
+
+**Vice President – TEDx Initiative** — *May 2025 – May 2026*  
+*La Tribune des Ponts et Chaussées* · Paris, France  
+- Collaborated with a team to organize multi-disciplinary conferences, coordinating logistics, speaker outreach, and communication strategies to bring thought-provoking talks to the engineering student community.
+
+**Vice President, Ponts AI** — *Jun. 2025 – Jun.2026*  
+*École des Ponts Artificial Intelligence Club* · Paris, France  
+- Active member of the École des Ponts Artificial Intelligence club, participating in technical workshops, coding challenges, and discussions on the latest advances in AI and machine learning.
+
+---
+
+Featured Projects
 
 <table>
 <tr>
 <td>
+🌦️ Deep Learning Reconstruction & Forecasting of Meteorological Fields · GitHub →
 
-### 📈 Path-Dependent Volatility Forecasting · [GitHub →](https://github.com/Omartfz/volatility-path-dependence)
+Two-stage deep learning pipeline for reconstructing dense atmospheric fields from sparse sensor observations (~10% of grid points) and performing 24h forecasting.
 
-**Modular Python toolkit implementing the path-dependent volatility model from _Guyon & Lekeufack (2023)_ for VIX forecasting.**
+Built a U-Net++ with CBAM attention (StrongUNet) achieving NRMSE 0.278 and ACC 0.871 on ERA5 reanalysis data, outperforming the CNN baseline (Fukami et al., 2021). Implemented probabilistic forecasting via Schrödinger Bridge. Supervised by Sibo Cheng (CEREA – École des Ponts / EDF R&D).
 
-Captures the persistent memory structure of implied volatility using **Time-Shifted Power-Law (TSPL) kernels**, reproducing and extending paper results across multiple indices (S&P 500, NDX, DJI).
+ModelNRMSEvs. CNN baselineStrongUNet (U-Net++ / CBAM)0.278−21%Schrödinger Bridge (probabilistic)—−34.8% vs. persistence
 
-**Core idea:** VIX is modeled as a function of two long-memory features built from past returns:
+Stack: Python · PyTorch · ERA5 · WeatherBench2
 
-> `VIX_t ≈ a · R₁_t + b · √(R̃₂_t)`
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+📊 Hull & White Stochastic Volatility Model · GitHub →
 
-where **R₁** encodes trend (short-term) and **R₂** encodes volatility (long-term path dependence).
+Full reproduction of Hull & White (1987) — option pricing under stochastic volatility.
 
-| Model | RMSE | R² |
-|---|---|---|
-| **TSPL (optimized)** | **2.82** | **0.87** |
-| HAR | 4.34 | 0.70 |
-| Realized Vol (30d) | 5.30 | 0.56 |
+Implements Monte Carlo simulation (with antithetic variates) and the analytical series expansion (Eq. 9) for European option pricing when variance follows a geometric Brownian motion. Studies the volatility smile and the impact of vol-of-vol (ξ), correlation (ρ), and maturity (T) on pricing bias.
 
-> Train: 2000–2018 · Test: 2019–2025 · Benchmark: S&P 500 / VIX
+Key results: reproduces all tables and figures from the paper — bias structure, implied vol smiles/skews, and the Jensen's inequality effect on B-S mispricing.
 
-**Stack:** `Python` · `scipy.optimize` · `pandas` · `yfinance` · `matplotlib`
+Stack: Python · NumPy · SciPy · Matplotlib
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+📈 Path-Dependent Volatility Forecasting · GitHub →
+
+Modular Python toolkit implementing the path-dependent volatility model from Guyon & Lekeufack (2023) for VIX forecasting.
+
+Captures the persistent memory structure of implied volatility using Time-Shifted Power-Law (TSPL) kernels, reproducing and extending paper results across multiple indices (S&P 500, NDX, DJI).
+
+ModelRMSER²TSPL (optimized)2.820.87HAR4.340.70Realized Vol (30d)5.300.56
+
+
+Train: 2000–2018 · Test: 2019–2025 · Benchmark: S&P 500 / VIX
+
+
+
+Stack: Python · scipy.optimize · pandas · yfinance · matplotlib
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+🎮 Multiplayer Trading Game · GitHub →
+
+Real-time multiplayer trading simulation built as a software engineering project.
+
+Players join live lobbies to buy and sell virtual assets (oil, gold, electronics) while observing market fluctuations in real time. The system simulates volatility, price movement, and competition between players, offering a simplified yet realistic introduction to trading mechanics.
+
+Stack: Python · JavaScript · WebSockets . HTML/CSS
+
+
 
 </td>
 </tr>
