@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&lines=ENPC+IMI+%7C+Applied+Math+%26+CS;Quant+%2F+ML+%2F+Internship+Seeker;Python+%7C+C%2B%2B+%7C+PyTorch+%7C+scikit-learn" alt="typing animation"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&lines=ENPC+%7C+Applied+Math+%26+CS;Quant+Research+%7C+AI+%2F+ML+Research;Python+%7C+C%2B%2B+%7C+PyTorch+%7C+scikit-learn" alt="typing animation"/>
 </p>
 
 <!-- ================= CONTACT ================= -->
@@ -19,12 +18,11 @@
 
 ## About Me
 
-2nd-year **engineering student** at **École des Ponts ParisTech (ENPC)** — **IMI (Applied Mathematics & Computer Science)**  
-Interested in **Quant Research / Quant Dev / ML Engineering** and building **robust, production-grade systems** powered by strong math foundations.
+2nd-year **engineering student in Applied Mathematics & Computer Science** at **École Nationale des Ponts et Chaussées (ENPC)**  
+Interested in **Quant Research** and **AI / Machine Learning Research**, building **robust, production-grade systems** powered by strong math foundations.
 
 - 📍 Paris, France  
 - 🧠 Focus: **Machine Learning**, **Statistics & Probability**, **Optimization**, **Software Engineering**, **Quant Finance**
-- 🎯 Looking for a ** 6 month internship starting July 2026** in **Quant / Data / ML / SWE**
 
 ---
 
@@ -34,20 +32,19 @@ Interested in **Quant Research / Quant Dev / ML Engineering** and building **rob
 |-----------|-------------|
 | **Programming** | **Python**, **C++**, **SQL** |
 | **ML / DL** | Coursework in **Machine Learning**, **Deep Learning**, and **Statistics**. Comfortable building end-to-end experiments in Python using **pandas**, **PyTorch**, and **scikit-learn**. |
-| **Quant / Markets** | **Statistics & Probability**, **Stochastic Calculus & Financial Mathematics**, **Econometrics**. |
-| **Tools** | Git, LaTeX, |
+| **Quant / Markets** | **Statistics & Probability**, **Stochastic Calculus & Financial Mathematics**. |
+| **Tools** | Git, LaTeX |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,latex&perline=5" height="48" alt="skills"/>
 </p>
 
-
 ---
 
 ## Education
 
-**École des Ponts ParisTech (ENPC)**  
-Major: *Applied Mathematics & Computer Science (IMI)*
+**École Nationale des Ponts et Chaussées (ENPC)**  
+Major: *Applied Mathematics & Computer Science*
 
 **Main coursework:**  
 Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vision, Statistics & Probability, Convex Optimization
@@ -63,6 +60,22 @@ Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vi
 **Vice President, Ponts AI** — *Jun. 2025 – Present*  
 *École des Ponts Artificial Intelligence Club* · Paris, France  
 - Active member of the École des Ponts Artificial Intelligence club, participating in technical workshops, coding challenges, and discussions on the latest advances in AI and machine learning.
+
+---
+
+## Experience
+
+**Quantitative Analyst Intern** — *Jul. 2026 – Dec. 2026*  
+*Crédit Agricole CIB (CACIB), Global Markets* · New York, NY  
+- Built Monte Carlo simulations and numerical methods to model cash flows for ABS/MBS securitization structures
+- Developed loss models and statistical risk exposure quantification for internal credit rating processes using Python
+- Collaborated with structurers and risk managers to deliver quantitative outputs on live securitization deals
+
+**Deep Learning Reconstruction & Forecasting of Meteorological Fields** — *Jan. 2026 – Jun. 2026*  
+*Research project supervised at CEREA – École des Ponts / EDF R&D*  
+- Designed U-Net++ (PyTorch) for sparse-to-dense atmospheric reconstruction; 0.278 NRMSE, −21% vs. CNN
+- Implemented push-forward (teacher forcing) for stable 7-day autoregressive weather forecasting
+- Built a stochastic interpolant (Schrödinger Bridge) for probabilistic forecasting; −34.8% NRMSE vs. persistence
 
 ---
 
@@ -98,7 +111,7 @@ where **R₁** encodes trend (short-term) and **R₂** encodes volatility (long-
 </tr>
 </table>
 
-## Let’s Connect
+## Let's Connect
 
 📩 Email: **omar.toufelaz@enpc.fr**  
 💼 LinkedIn: **[linkedin.com/in/omar-toufelaz](https://www.linkedin.com/in/omar-toufelaz/)**  
