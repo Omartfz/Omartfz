@@ -43,7 +43,8 @@ Interested in **Quant Research** and **AI / Machine Learning Research**.
 
 ## Education
 
-**École Nationale des Ponts et Chaussées (ENPC)**  
+**École Nationale des Ponts et Chaussées (ENPC)**  — *Aug. 2024 – July. 2028*  
+Paris, France
 Major: *Applied Mathematics & Computer Science*
 
 **Main coursework:**  
@@ -62,7 +63,7 @@ Machine Learning, Deep Learning, Advanced Programming (Python, C++), Stochastic 
 - Collaborated with structurers and risk managers to deliver quantitative outputs on live securitization deals
 
 **Deep Learning Reconstruction & Forecasting of Meteorological Fields** — *Jan. 2026 – Jun. 2026*  
-*Research project supervised at CEREA – École des Ponts / EDF R&D*  
+*Research project supervised at CEREA – École des Ponts / EDF R&D* · Paris, France   
 - Designed U-Net++ (PyTorch) for sparse-to-dense atmospheric reconstruction; 0.278 NRMSE, −21% vs. CNN
 - Implemented push-forward (teacher forcing) for stable 7-day autoregressive weather forecasting
 - Built a stochastic interpolant (Schrödinger Bridge) for probabilistic forecasting; −34.8% NRMSE vs. persistence
