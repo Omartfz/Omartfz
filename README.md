@@ -19,10 +19,10 @@
 ## About Me
 
 2nd-year **engineering student in Applied Mathematics & Computer Science** at **École Nationale des Ponts et Chaussées (ENPC)**  
-Interested in **Quant Research** and **AI / Machine Learning Research**, building **robust, production-grade systems** powered by strong math foundations.
+Interested in **Quant Research** and **AI / Machine Learning Research**.
 
 - 📍 Paris, France  
-- 🧠 Focus: **Machine Learning**, **Statistics & Probability**, **Optimization**, **Software Engineering**, **Quant Finance**
+- 🧠 Focus: **Machine Learning**, **Deep Learning**, **Statistics & Probability**,  **Quant Finance**, **Optimization**, **Software Engineering**, **Computer Vision**
 
 ---
 
@@ -47,19 +47,9 @@ Interested in **Quant Research** and **AI / Machine Learning Research**, buildin
 Major: *Applied Mathematics & Computer Science*
 
 **Main coursework:**  
-Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vision, Statistics & Probability, Convex Optimization
+Machine Learning, Deep Learning, Advanced Programming (Python, C++), Stochastic calculus & Financial Mathematics, Statistics & Probability, Convex Optimization, Computer Vision
 
----
 
-## Activities
-
-**Vice President, TEDx Team** — *May 2025 – Present*  
-*La Tribune des Ponts et Chaussées* · Paris, France  
-- Leading the organization of the 2025 TEDx conference at École des Ponts, coordinating logistics, speaker selection, and communication strategy to bring thought-provoking talks to the engineering student community.
-
-**Vice President, Ponts AI** — *Jun. 2025 – Present*  
-*École des Ponts Artificial Intelligence Club* · Paris, France  
-- Active member of the École des Ponts Artificial Intelligence club, participating in technical workshops, coding challenges, and discussions on the latest advances in AI and machine learning.
 
 ---
 
@@ -77,6 +67,17 @@ Machine Learning, Deep Learning, Software Engineering (Python, C++), Computer Vi
 - Implemented push-forward (teacher forcing) for stable 7-day autoregressive weather forecasting
 - Built a stochastic interpolant (Schrödinger Bridge) for probabilistic forecasting; −34.8% NRMSE vs. persistence
 
+---
+
+## Activities
+
+**Vice President, TEDx initiative** — *May 2025 – May 2026*  
+*La Tribune des Ponts et Chaussées* · Paris, France  
+- Collaborated with a team to organize multi-disciplinary conferences, coordinating logistics, speaker outreach, and communication strategies to bring thought-provoking talks to the engineering student community
+
+**Vice President, Ponts AI** — *Jun. 2025 – Jun. 2026*  
+*École des Ponts Artificial Intelligence Club* · Paris, France  
+- Active member of the École des Ponts Artificial Intelligence club, participating in technical workshops, coding challenges, and discussions on the latest advances in AI and machine learning.
 ---
 
 ## Featured Projects
