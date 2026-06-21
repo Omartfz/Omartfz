@@ -108,7 +108,7 @@ Built a **U-Net++ with CBAM attention** (StrongUNet) achieving **NRMSE 0.278** a
 <tr>
 <td>
 
-### 📊 Hull & White Stochastic Volatility Model · [GitHub →](https://github.com/baldwin362/hull_and_white_model)
+### 📊 Hull & White Stochastic Volatility Model · [GitHub →](https://github.com/Omartfz/hull_and_white_model)
 
 **Full reproduction of Hull & White (1987) — option pricing under stochastic volatility.**
 
